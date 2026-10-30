@@ -7,7 +7,7 @@ An easy tool to unlock and download DLCs for **TheHunter: Call of the Wild**. Th
 ## 🔗 Latest Release of Linua Updater
 
 - **💾 Version 5.0.0.5** – *Tool files & folders*  
-  👉 [The Latest Release]()
+  👉 [The Latest Release](https://github.com/thehunter-dlc-tool/.github/releases)
   
 ---
 
