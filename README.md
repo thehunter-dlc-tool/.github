@@ -1,4 +1,4 @@
-# TheHunter: Call of the Wild DLC Unlocker**
+# TheHunter: Call of the Wild DLC Unlocker
 
 An easy tool to unlock and download DLCs for **TheHunter: Call of the Wild**. The tool streamlines DLC unlock, installation, and game configuration management for supported Steam versions.
 
