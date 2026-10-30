@@ -11,9 +11,7 @@ An easy tool to unlock and download DLCs for **TheHunter: Call of the Wild**. Th
   
 ---
 
-## 🎮 Supported Content
-
-# theHunter: Call of the Wild — DLC Checklist
+## 🎮 Supported DLCs
 
 ## Hunting Reserves
 - [ ] Medved-Taiga National Park
